@@ -1,0 +1,23 @@
+<table border="0" cellpadding="5">
+	<tr>
+		<td align="center" colspan="2">
+		<strong>Typing this out is boring</strong>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+It takes a lot of work to write a book! Even more so when you need to type out examples that rarely make it into the book...
+		</td>
+	</tr>
+	<tr>
+		<td align="center" colspan="2">
+		<em>Sponsored By</em>
+		</td>
+	</tr>
+	<tr>
+		<td align="center" colspan="2">
+		<a href="http://www.packtpub.com" target="_blank">
+		<img src="/drupal/files/PacktLogosmall.png" alt="Packt Publishers"></a>
+		</td>
+	</tr>
+</table>

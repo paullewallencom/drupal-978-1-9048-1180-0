@@ -1,0 +1,24 @@
+<table border="0" cellpadding="5">
+	<tr>
+		<td align="center" colspan="2">
+		<strong>Latest News</strong>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+The Contechst Wildlife Community was praised for its unswerving dedication to animal rights in a television interview last night.<br> The project founder said he thought we did a great job when asked by the reporter!
+
+		</td>
+	</tr>
+	<tr>
+		<td align="center" colspan="2">
+		<em>Sponsored By</em>
+		</td>
+	</tr>
+	<tr>
+		<td align="center" colspan="2">
+		<a href="http://www.packtpub.com" target="_blank">
+		<img src="/drupal/files/PacktLogosmall.png" alt="Packt Publishers"></a>
+		</td>
+	</tr>
+</table>

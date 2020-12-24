@@ -1,0 +1,33 @@
+$Id: INSTALL,v 1.6 2005/11/10 09:36:32 crunchywelch Exp $
+
+If upgrading from a previous version, see notes below.
+
+Installation:
+
+1) Place these files into modules/flexinode:
+     flexinode.module
+     field_checkbox.inc
+     field_file.inc
+     field_image.inc
+     field_select.inc
+     field_textarea.inc
+     field_textfield.inc
+     field_timestamp.inc
+
+2) Update your Drupal database using flexinode.mysql. A typical command
+   line to do this is:
+   mysql -u username -ppassword drupal < flexinode.mysql
+
+3) Enable the flexinode module in Drupal, at:
+   administration -> site configuration -> modules
+
+4) Create new flexible content types, at:
+   administration -> content on the 'content types' and 'add content type' tabs
+
+
+Upgrading:
+
+You need to make sure that your database schema is current. We are supposed
+to be getting a proper install/update system for Drupal modules; for now,
+a simple update script is provided (no warranties!). To run the script,
+go to /flexinode/update while logged in as an administrator.

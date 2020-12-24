@@ -1,0 +1,1002 @@
+# LANGUAGE translation of PROJECT
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+msgid ""
+msgstr ""
+"Project-Id-Version: Drupal-4.6\n"
+"POT-Creation-Date: 2005-01-15 21:48+0100\n"
+"PO-Revision-Date: 2005-05-04 16:50+0100\n"
+"Last-Translator: MicheleF <michele@drupalitalia.org>\n"
+"Language-Team: Drupal Italia <michele@drupalitalia.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+
+# D:\drupal-cvs\modules\flexinode\field_checkbox.inc:5
+msgid "checkbox"
+msgstr "checkbox"
+
+# D:\drupal-cvs\modules\flexinode\field_checkbox.inc:29;34
+msgid "Yes"
+msgstr "Si"
+
+# D:\drupal-cvs\modules\flexinode\field_checkbox.inc:29;34
+msgid "No"
+msgstr "No"
+
+# D:\drupal-cvs\modules\flexinode\field_checkbox.inc:34
+msgid "Any"
+msgstr "Qualsiasi"
+
+# D:\drupal-cvs\modules\flexinode\field_checkbox.inc:46
+msgid "Checked by default"
+msgstr "Impostato per default"
+
+#: D:\drupal-cvs\modules\flexinode\field_email.inc:5
+msgid "e-mail address"
+msgstr "indirizzo e-mail"
+
+#: D:\drupal-cvs\modules\flexinode\field_email.inc:42
+msgid "The email address is not valid."
+msgstr "L'indirizzo e-mail non è valido."
+
+#: D:\drupal-cvs\modules\flexinode\field_email.inc:53
+msgid "Default value"
+msgstr "Valore di default"
+
+# D:\drupal-cvs\modules\flexinode\field_file.inc:5
+msgid "file"
+msgstr "file"
+
+# D:\drupal-cvs\modules\flexinode\field_file.inc:11
+msgid "\"%filename\" has been uploaded. If you upload another file, the current file will be replaced."
+msgstr "\"%filename\" è stato caricato. Se caricate un altro file, quello corrente verrà rimpiazzato."
+
+# D:\drupal-cvs\modules\flexinode\field_image.inc:5
+msgid "image"
+msgstr "immagine"
+
+# D:\drupal-cvs\modules\flexinode\field_image.inc:14
+msgid "\"%filename\" has been uploaded. If you upload another file, the current file will be replaced."
+msgstr "\"%filename\" è stato caricato. Se caricate un altro file, quello corrente verrà rimpiazzato."
+
+# D:\drupal-cvs\modules\flexinode\field_image.inc:14
+msgid "The file is limited to %kbKB and a resolution of %wxh pixels (width x height)."
+msgstr "Il file è limitato a %knKB e ad una risoluzione di %wxh pixels (width x height)."
+
+# D:\drupal-cvs\modules\flexinode\field_image.inc:84
+msgid "Maximum picture dimensions"
+msgstr "Dimensioni massime immagine"
+
+# D:\drupal-cvs\modules\flexinode\field_image.inc:84
+msgid "Maximum dimensions for pictures. Format: widthxheight"
+msgstr "Dimensioni massime per le immagini. Formato: widthxheight"
+
+# D:\drupal-cvs\modules\flexinode\field_image.inc:85
+msgid "Maximum picture size"
+msgstr "Grandezza massima dell'immagine"
+
+# D:\drupal-cvs\modules\flexinode\field_image.inc:85
+msgid "Maximum picture file size, in kB."
+msgstr "Grandezza massima del file di immagine, in kB."
+
+# D:\drupal-cvs\modules\flexinode\field_image.inc:87
+msgid "Options"
+msgstr "Opzioni"
+
+# D:\drupal-cvs\modules\flexinode\field_image.inc:87
+msgid "Options for the image upload."
+msgstr "Opzione per il caricamento dell'immagine."
+
+# D:\drupal-cvs\modules\flexinode\field_image.inc:91
+msgid "Default thumbnail resolution"
+msgstr "Risoluzione di default delle miniature"
+
+# D:\drupal-cvs\modules\flexinode\field_image.inc:91
+msgid "Default size of thumbnails: format will be the same as original image. Use just one dimension, and put a \"x\" to specify height. Examples: \"100\" for width of 100; \"x200\" for height of 200."
+msgstr "Grandezza di default delle miniature: il formato sarà lo stesso dell'immagine originale. Usate solo una dimensione, e mettete un \"x\" per specificare. Esempi: \"100\" per una larghezza di 100; \"x200\" per un'altezza di 200."
+
+# D:\drupal-cvs\modules\flexinode\field_image.inc:92
+msgid "Imagemagick Convert path"
+msgstr "Percorso file Convert di Imagemagick"
+
+# D:\drupal-cvs\modules\flexinode\field_image.inc:92
+msgid "Absolute path to ImageMagick convert executable. Include the filename at the end."
+msgstr "Percorso assoluto per il programma convert di Imagemagick. Includete il nome file alla fine."
+
+# D:\drupal-cvs\modules\flexinode\field_image.inc:93
+msgid "Image processing"
+msgstr "Elaborazione immagine"
+
+# D:\drupal-cvs\modules\flexinode\field_image.inc:132
+msgid "The uploaded file was not a valid image."
+msgstr "Il file caricat onon era un immagine valida."
+
+# D:\drupal-cvs\modules\flexinode\field_image.inc:135
+msgid "The uploaded image is too large; the maximum file size is %num kB."
+msgstr "L'immagine caricata è troppo grande; la grandezza massima del file è %num kB."
+
+# D:\drupal-cvs\modules\flexinode\field_image.inc:138
+msgid "The uploaded image is too large; the maximum dimensions are %nxn pixels."
+msgstr "L'immagine caricata è troppo grande; le dimensioni massime sono %nxn pixels."
+
+# D:\drupal-cvs\modules\flexinode\field_select.inc:5
+msgid "dropdown menu"
+msgstr "menu a tendina"
+
+# D:\drupal-cvs\modules\flexinode\field_select.inc:10;41
+msgid "none"
+msgstr "nessuno"
+
+# D:\drupal-cvs\modules\flexinode\field_select.inc:41
+msgid "Any"
+msgstr "Qualsiasi"
+
+# D:\drupal-cvs\modules\flexinode\field_select.inc:68
+msgid "More"
+msgstr "Ancora"
+
+# D:\drupal-cvs\modules\flexinode\field_select.inc:70
+msgid "Options"
+msgstr "Opzioni"
+
+# D:\drupal-cvs\modules\flexinode\field_select.inc:70
+msgid "Options for the dropdown menu. For more fields, click \"More\"."
+msgstr "Opzioni per il menu a tendina. Per altri campi, click \"Ancora\"."
+
+# D:\drupal-cvs\modules\flexinode\field_textarea.inc:5
+msgid "text area"
+msgstr "area testo"
+
+# D:\drupal-cvs\modules\flexinode\field_textarea.inc:34
+msgid "Default value"
+msgstr "Valore di default"
+
+# D:\drupal-cvs\modules\flexinode\field_textarea.inc:35
+msgid "Lines"
+msgstr "Linee"
+
+# D:\drupal-cvs\modules\flexinode\field_textarea.inc:35
+msgid "How large the text area will be."
+msgstr "Quanto sarà grande l'area testo."
+
+# D:\drupal-cvs\modules\flexinode\field_textfield.inc:5
+msgid "text field"
+msgstr "campo testo"
+
+# D:\drupal-cvs\modules\flexinode\field_textfield.inc:33
+msgid "Default value"
+msgstr "Valore di default"
+
+# D:\drupal-cvs\modules\flexinode\field_timestamp.inc:5
+msgid "date/time"
+msgstr "data/ora"
+
+# D:\drupal-cvs\modules\flexinode\field_timestamp.inc:58
+msgid "January"
+msgstr "Gennaio"
+
+# D:\drupal-cvs\modules\flexinode\field_timestamp.inc:58
+msgid "February"
+msgstr "Febbraio"
+
+# D:\drupal-cvs\modules\flexinode\field_timestamp.inc:58
+msgid "March"
+msgstr "Marzo"
+
+# D:\drupal-cvs\modules\flexinode\field_timestamp.inc:58
+msgid "April"
+msgstr "Aprile"
+
+# D:\drupal-cvs\modules\flexinode\field_timestamp.inc:58
+msgid "May"
+msgstr "Maggio"
+
+# D:\drupal-cvs\modules\flexinode\field_timestamp.inc:58
+msgid "June"
+msgstr "Giugno"
+
+# D:\drupal-cvs\modules\flexinode\field_timestamp.inc:58
+msgid "July"
+msgstr "Luglio"
+
+# D:\drupal-cvs\modules\flexinode\field_timestamp.inc:58
+msgid "August"
+msgstr "Agosto"
+
+# D:\drupal-cvs\modules\flexinode\field_timestamp.inc:58
+msgid "September"
+msgstr "Settembre"
+
+# D:\drupal-cvs\modules\flexinode\field_timestamp.inc:58
+msgid "October"
+msgstr "Ottobre"
+
+# D:\drupal-cvs\modules\flexinode\field_timestamp.inc:58
+msgid "November"
+msgstr "Novembre"
+
+# D:\drupal-cvs\modules\flexinode\field_timestamp.inc:58
+msgid "December"
+msgstr "Dicembre"
+
+# D:\drupal-cvs\modules\flexinode\field_timestamp.inc:62
+msgid "am"
+msgstr "am"
+
+# D:\drupal-cvs\modules\flexinode\field_timestamp.inc:62
+msgid "pm"
+msgstr "pm"
+
+#: D:\drupal-cvs\modules\flexinode\field_url.inc:5
+msgid "URL"
+msgstr "URL"
+
+#: D:\drupal-cvs\modules\flexinode\field_url.inc:33
+msgid "The url is not valid."
+msgstr "L' url non è valido."
+
+#: D:\drupal-cvs\modules\flexinode\field_url.inc:44
+msgid "Default value"
+msgstr "Valore di default"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:31
+msgid "Allows administrators to define their own content types."
+msgstr "Permette agli amministratori di definire i propri tipi di contenuto."
+
+# D:\drupal-contributions\modules\flexinode\flexinode.module:35
+msgid ""
+"\r\n"
+"<p>Flexinode is a module that allows non-programmers to create new node\r\n"
+"types (flexible content types) in Drupal when their needs are modest.\r\n"
+"Users can define the fields in the node edit form for their content type,\r\n"
+"and can either view the nodes as presented by the module or modify the\r\n"
+"presentation in their theme.</p>\r\n"
+"\r\n"
+"<h3>Editing Content Types</h3>\r\n"
+"\r\n"
+"<p>The administration pages for this module are located at:<br />\r\n"
+"Administration -> Content Management -> Content Types<br />\r\n"
+"Click on \"add content type\" to make a new one. On this page you can set\r\n"
+"the title of your new content type and some related information.</p>\r\n"
+"\r\n"
+"<p>Once you save your new type, you can add new custom fields to it using\r\n"
+"the links on the overview page. You can add text fields, dropdown menus,\r\n"
+"check boxes, file uploads, and other input elements. The Title and\r\n"
+"Description fields are always shown.</p>\r\n"
+"\r\n"
+"<h3>Viewing Content</h3>\r\n"
+"\r\n"
+"<p>Adding flexible content is just like adding other nodes; pick the\r\n"
+"appropriate link from the user menu. The node will show up alongside\r\n"
+"all normal nodes.</p>\r\n"
+"\r\n"
+"<h3>Theming Content</h3>\r\n"
+"\r\n"
+"<p>Every custom field is set as a property of the node. To create a custom\r\n"
+"presentation for your new content type, add logic in your theme's node\r\n"
+"function to switch on the node type and print out the fields in the\r\n"
+"way you choose. The fields are all named flexinode_n where n is the\r\n"
+"field ID.</p>\r\n"
+msgstr ""
+"\r\n"
+"<p>Flexinode è un modulo che permette ai non programmatori di definire nuovi tipi di nodi (tipi di contenuto 'flessibili') in Drupal, quando le esigenze sono sufficientemente semplici.\n"
+"Gli utenti possono definire i campi nella maschera di inserimento/modifica del loro tipo di contenuto, e possono vedere i nodi nel modo in cui sono presentati da lmodulo o modificare la presentazione all'interno del tema grafico.</p>\n"
+"\r\n"
+"<h3>Modifica dei tipi di contenuto</h3>\r\n"
+"\r\n"
+"<p>Le pagine di amministrazione per questo modulo si trovano in:<br />\r\n"
+"Amministrazione -> Gestione contenuti -> Tipi di contenuto<br />\r\n"
+"Cliccate su \"aggiungi tipo di contenuto\" per crearne uno nuovo. Su questa pagina potete impostare il titolo del vostro nuovo tipo di contenuto ed altre informazioni collegate.</p>\r\n"
+"\r\n"
+"<p>Una volta salvato il nuovo tipo, potete aggiungere nuovi campi utente usando i link sulla pagina di panoramica. Potete aggiungere campi di testo, menu a tendina, checkbox, upload di file e altri elementi di input. I campi Titolo e Descrizione sono sempre visualizzati.</p>\r\n"
+"\r\n"
+"<h3>Visualizzazione dei contenuti</h3>\r\n"
+"\r\n"
+"<p>Aggiungere un contenuto flessibile è come aggiungere altri nodi, scegliete il link appropriato dal menu utente. Il nodo verrà mostrato come tutti gli altri nodi nornali.</p>\r\n"
+"\r\n"
+"<h3>Personalizzazione grafica contenuti</h3>\r\n"
+"\r\n"
+"<p>Ogni campo utente è una proprietà del nodo. Per creare una presentazione specifica per il vostro tipo di contenuto, aggiungete della logica alle funzioni del nodo che si occupano dei temi grafici in modo che, in base al tipo di nodo, visualizzi i campi nel modo voluto. I campi si chiamano tutti flexinode_n dove n è l'identificativo del campo</p>\r\n"
+
+# D:\drupal-contributions\modules\flexinode\flexinode.module:69
+msgid ""
+"You may define your own content types here. These will be extensions of\r\n"
+"the basic \"story\" node type with additional fields that you specify.\r\n"
+"Choose \"add content type\" in the menu to add a new type. Make a selection\r\n"
+"below to edit an existing type or field. To delete a field or entire\r\n"
+"content type, first open the editing form for that field or type."
+msgstr ""
+"Qui puoi definire i tuoi tipi di contenuto.\n"
+"Queste saranno estensioni del tipo di nodo 'story', con campi addizionali che è possibile specificare.\n"
+"Scegli \"aggiungi tipo di contenuto\" nel menu per aggiungere un nuovo tipo. Seleziona\n"
+"qui sottoper modificare un tipo o un campo esistente. Per cancellare un campo o un intero tipo di contenuto, prima apri la maschera di modifica per quel campo o per quel tipo di contenuto."
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:117
+msgid "edit this %nodename"
+msgstr "modifica questo %nodename"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:135
+msgid "list view"
+msgstr "visualizza lista"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:138
+msgid "tabular view"
+msgstr "vista tabellare"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:141
+msgid "search"
+msgstr "ricerca"
+
+# D:\drupal-contributions\modules\flexinode\flexinode.module:151
+msgid "rss feed"
+msgstr "sorgente rss"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:146
+msgid "content types"
+msgstr "tipi di contenuto"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:148
+msgid "list"
+msgstr "lista"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:150
+msgid "add content type"
+msgstr "aggiungi tipo di contenuto"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:153;461
+msgid "edit content type"
+msgstr "modifica tipo di contenuto"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:156
+msgid "add field"
+msgstr "aggiungi campo"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:159;465
+msgid "edit field"
+msgstr "modifica campo"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:163
+msgid "update"
+msgstr "modifica"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:205;217;251
+msgid "Search"
+msgstr "Ricerca"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:212
+msgid "search for phrase"
+msgstr "ricerca frase"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:219
+msgid "search %type"
+msgstr "ricerca %type"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:270
+msgid "title"
+msgstr "titolo"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:304
+msgid "%type search results"
+msgstr "risultati ricerca %type"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:316;350;384;422;858;948
+msgid "Submit"
+msgstr "Pubblica"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:325;359;397;435;860;910;950;1014
+msgid "Delete"
+msgstr "Cancella"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:393;431
+msgid "More"
+msgstr "Ancora"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:455
+msgid "name"
+msgstr "nome"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:455
+msgid "description"
+msgstr "descrizione"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:455
+msgid "operations"
+msgstr "operazioni"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:463
+msgid "Title"
+msgstr "Titolo"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:471
+msgid "add %fieldtype"
+msgstr "aggiungi %fieldtype"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:497
+msgid "flexible content"
+msgstr "contenuto flessibile"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:854
+msgid "Content type name"
+msgstr "Nome tipo di contenuto"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:855;938
+msgid "Description"
+msgstr "Descrizione"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:855
+msgid "A one-line description of the content type."
+msgstr "La descrizione su una sola linea"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:856
+msgid "Help text"
+msgstr "Testo aiuto"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:856
+msgid "Instructions to present to the user when adding new content of this type."
+msgstr "Istruzioni da presentare all'utente quando aggiunge nuovi contenuti di questo tipo."
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:873
+msgid "You must give this content type a name."
+msgstr "Dovete assegnare un nome a questo contenuto."
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:892
+msgid "updated content type \"%name\"."
+msgstr "contenuto di tipo \"%name\" modificato."
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:899
+msgid "created new content type \"%name\"."
+msgstr "nuovo contenuto di tipo \"%name\" creato."
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:911;1015
+msgid "Cancel"
+msgstr "Annulla"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:913
+msgid "Delete content type \"%name\""
+msgstr "Cancella tipo di contenuto \"%name\""
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:913
+msgid "Are you sure you want to delete the content type? All nodes created using this content type will be lost."
+msgstr "Siete sicuri di volere cancellare il tipo di contenuto? Tutti  i nodi creati usando questo contenuto saranno eliminati."
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:929
+msgid "deleted content type \"%name\"."
+msgstr "cancellato tipo di contenuto \"%name\"."
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:936
+msgid "Field label"
+msgstr "Etichetta campo"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:938
+msgid "A brief description of the field, to be displayed on the content submission form."
+msgstr "Una breve descrizione del campo, da visualizzare nella maschera di inserimento del contenuto."
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:943
+msgid "Required field"
+msgstr "Campo obbligatorio"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:943
+msgid "Whether the user must fill in the field when creating content."
+msgstr "L'utente deve popolare il campo quando crea un contenuto."
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:944
+msgid "Show in teaser"
+msgstr "Mostra nel teaser"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:944
+msgid "Whether this field should be shown as part of the teaser."
+msgstr "Questo campo deve essere visualizzato come parte dell'anteprima."
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:945
+msgid "Show in table"
+msgstr "Mostra in tabella"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:945
+msgid "Whether this field should be shown as part of this content type's <a href=\"%table\">tabular view</a>."
+msgstr "Questo campo deve essere visualizzato come parte della <a href=\"%table\">vista tabulare</a> di questo tipo di contenuto "
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:946
+msgid "Weight"
+msgstr "Peso"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:946
+msgid "Optional. On the content editing form, the heavier fields will sink and the lighter fields will be positioned nearer the top."
+msgstr "Opzionale. Nella maschera di modifica del contenuto, i campi più pesanti saranno gli ultimi e quelli più leggerei saranno posizionati all'inizio."
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:966
+msgid "You must give this field a label."
+msgstr "Dovete assegnare un etichetta a questo campo."
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:993
+msgid "updated field \"%name\"."
+msgstr "campo \"%name\" modificato."
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:1000
+msgid "created new field \"%name\"."
+msgstr "nuovo campo \"%name\" creato."
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:1017
+msgid "Delete field \"%name\""
+msgstr "Cancella campo \"%name\""
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:1017
+msgid "Are you sure you want to delete this field? All data in this field will be lost."
+msgstr "Siete sicuri di volere cancellare questo campo ? Tutti i dati in questo campo verrano perso."
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:1028
+msgid "deleted field \"%name\"."
+msgstr "campo \"%name\" cancellato."
+
+# D:\drupal-contributions\modules\flexinode\flexinode.module:1105
+msgid " feed"
+msgstr " sorgente"
+
+# D:\drupal-cvs\modules\flexinode\flexinode.module:0
+msgid "flexinode"
+msgstr "flexinode"
+
+#: event.module:35;38;105
+msgid "calendar"
+msgstr "calendario"
+
+#: event.module:43;58;65
+msgid "week"
+msgstr "settimana"
+
+#: event.module:43;58;65
+msgid "Week view"
+msgstr "Vista settimanale"
+
+#: event.module:44;51;66
+msgid "day"
+msgstr "giorno"
+
+#: event.module:44;51;66
+msgid "Day view"
+msgstr "Vista giornaliera"
+
+#: event.module:45;52;59
+msgid "table"
+msgstr "tabella"
+
+#: event.module:45;52;59
+msgid "Table view"
+msgstr "Vista tabellare"
+
+#: event.module:50;57;64
+msgid "month"
+msgstr "mese"
+
+#: event.module:50;57;64
+msgid "Month view"
+msgstr "Vista mensile"
+
+#: event.module:71;75;79;83;1116
+msgid "more"
+msgstr "leggi tutto"
+
+#: event.module:100
+msgid "events"
+msgstr "eventi"
+
+#: event.module:109
+msgid "add item to calendar"
+msgstr "aggiungi elemento al calendario"
+
+#: event.module:114
+msgid "filter by content type"
+msgstr "filtro per tipo di contenuto"
+
+#: event.module:119
+msgid "filter by taxonomy"
+msgstr "filtro per categorie"
+
+#: event.module:139;149
+msgid "Event timezone input"
+msgstr "Immissione fuso orario evento"
+
+#: event.module:139;149
+msgid "Use the sitewide timezone"
+msgstr "Usa il fuso orario del sito"
+
+#: event.module:139;149
+msgid "Use the timezone of the user editing or creating the event"
+msgstr "Usa il fuso orario dell'utente che modifica o crea un evento"
+
+#: event.module:139;149
+msgid "Allow users to set event timezones"
+msgstr "Permette agli utenti di impostare i fusi orari degli eventi"
+
+#: event.module:139
+msgid "Events are saved with a timezone value. This setting allows you to determine how the timezone is determined when creating or editing an event."
+msgstr "Gli eventi vengono memorizzati con un valore di fuso orario. Questo parametro permette di determinare come gestire il fuso orario quando si crea o modifica un evento."
+
+#: event.module:141;151
+msgid "Event timezone display"
+msgstr "Mostra il fuso orario dell'evento"
+
+#: event.module:141;151
+msgid "Use the event's timezone"
+msgstr "Usa il fuso orario dell'evento"
+
+#: event.module:141;151
+msgid "Use the user's timezone"
+msgstr "Usa il fuso orario dell'utente"
+
+#: event.module:141
+msgid "Events are saved with a timezone value. This setting allows you to determine if the event's timezone or the user's personal timezone setting is used to display the time for an event."
+msgstr "Gli eventi vengono salvati con un valore di fuso orario, Questo parametro permette di determinare se viene usato il fuso orario dell'evento o quello personale dell'utente per visualizzare l'orario di un evento."
+
+#: event.module:149;151
+msgid "site configuration"
+msgstr "configurazione sito"
+
+#: event.module:153
+msgid "General Event options"
+msgstr "Opzioni generali eventi"
+
+#: event.module:155
+msgid "Default overview"
+msgstr "Panoramica predefinita"
+
+#: event.module:155
+msgid "Day"
+msgstr "Giorno"
+
+#: event.module:155
+msgid "Week"
+msgstr "Settimana"
+
+#: event.module:155
+msgid "Month"
+msgstr "Mese"
+
+#: event.module:155
+msgid "Table"
+msgstr "Tabella"
+
+#: event.module:155
+msgid "The default event view to display when no format is specifically requested. This is also the view that will be displayed from the block calendar links."
+msgstr "La vista predefinita da visualizzare quando non viene richiesto un formato specifico. Questa è anche la vista che verrà visualizzata dai link del blocco calendario."
+
+#: event.module:156
+msgid "Table view default period"
+msgstr "Periodo predefinito di visualizzazione tabellare"
+
+#: event.module:156
+msgid "The default number of days to display in the table view. You can specify a different number of days in the url. More info on the event url format %link"
+msgstr "Il numero predefinito di giorni da visualizzare nella vista tabellare. Puoi specificare un numero differente di giorni nell'url. Maggiori informazioni sul formato dell'url eventi %link"
+
+#: event.module:156
+msgid "here"
+msgstr "qui"
+
+#: event.module:161
+msgid "Show taxonomy filter control on calendar views"
+msgstr "Mostra controllo filtro categorie nelle viste del calendario"
+
+#: event.module:162
+msgid "Only show taxonomy filter control when taxonomy filter view is requested"
+msgstr "Mostra controllo filtro per categoria solo quando viene richiesta la vista per categoria"
+
+#: event.module:163
+msgid "Never show taxonomy filter control"
+msgstr "Non mostrare mai controllo filtro categorie"
+
+#: event.module:167
+msgid "Show content type filter control on calendar views"
+msgstr "Mostra controllo filtro per tipo contenuto nelle viste del calendario"
+
+#: event.module:168
+msgid "Only show content type filter control when content type filter view is requested"
+msgstr "Mostra controllo filtro per tipo contenuto solo quando viene richiesta la vista per tipo contenuto"
+
+#: event.module:169
+msgid "Never show content type filter control"
+msgstr "Non mostrare mai controllo filtro per tipo contenuto"
+
+#: event.module:171
+msgid "Event overview options"
+msgstr "Panoramica opzioni eventi"
+
+#: event.module:207;542
+msgid "Home"
+msgstr "Home"
+
+#: event.module:208;316;1110
+msgid "Events"
+msgstr "Eventi"
+
+#: event.module:236
+msgid "Filter"
+msgstr "Filtro"
+
+#: event.module:529
+msgid "Search"
+msgstr "Ricerca"
+
+#: event.module:537
+msgid "No matches found."
+msgstr "Nessun dato soddisfa i criteri di ricerca."
+
+#: event.module:543
+msgid "Search Events"
+msgstr "Ricerca eventi"
+
+#: event.module:700;703
+msgid "Mon"
+msgstr "Lun"
+
+#: event.module:700;703
+msgid "Tue"
+msgstr "Mar"
+
+#: event.module:700;703
+msgid "Wed"
+msgstr "Mer"
+
+#: event.module:700;703
+msgid "Thu"
+msgstr "Gio"
+
+#: event.module:700;703
+msgid "Fri"
+msgstr "Ven"
+
+#: event.module:700;703
+msgid "Sat"
+msgstr "Sab"
+
+#: event.module:700;703
+msgid "Sun"
+msgstr "Dom"
+
+#: event.module:825
+msgid "g"
+msgstr "g"
+
+#: event.module:830
+msgid "H"
+msgstr "H"
+
+#: event.module:842
+msgid "January"
+msgstr "Gennaio"
+
+#: event.module:842
+msgid "February"
+msgstr "Febbraio"
+
+#: event.module:842
+msgid "March"
+msgstr "Marzo"
+
+#: event.module:842
+msgid "April"
+msgstr "Aprile"
+
+#: event.module:842
+msgid "May"
+msgstr "Maggio"
+
+#: event.module:842
+msgid "June"
+msgstr "Giugno"
+
+#: event.module:842
+msgid "July"
+msgstr "Luglio"
+
+#: event.module:842
+msgid "August"
+msgstr "Agosto"
+
+#: event.module:842
+msgid "September"
+msgstr "Settembre"
+
+#: event.module:842
+msgid "October"
+msgstr "Ottobre"
+
+#: event.module:842
+msgid "November"
+msgstr "Novembre"
+
+#: event.module:842
+msgid "December"
+msgstr "Dicembre"
+
+#: event.module:846
+msgid "am"
+msgstr "am"
+
+#: event.module:846
+msgid "pm"
+msgstr "pm"
+
+#: event.module:1036
+msgid "Select event terms to filter by"
+msgstr "Seleziona i termini delle categorie da filtrare"
+
+#: event.module:1066
+msgid "Select event type to filter by"
+msgstr "Seleziona il tipo di evento da filtrare"
+
+#: event.module:1090
+msgid "Calendar to browse events."
+msgstr "Calendario per visualizzazione eventi."
+
+#: event.module:1091
+msgid "List of upcoming events."
+msgstr "Lista dei prossimi eventi."
+
+#: event.module:1092
+msgid "List of event taxonomy types."
+msgstr "Lista di categorie di eventi."
+
+#: event.module:1114
+msgid "Upcoming events"
+msgstr "Prossimi eventi"
+
+#: event.module:1116
+msgid "More events."
+msgstr "Altri eventi."
+
+#: event.module:1120
+msgid "Browse event types"
+msgstr "Visualizza tipi di contenuto"
+
+#: event.module:1151
+msgid "NOW"
+msgstr "ADESSO"
+
+#: event.module:1212
+msgid "Show in event calendar"
+msgstr "Mostra nel calendario eventi"
+
+#: event.module:1212
+msgid "Never"
+msgstr "Mai"
+
+#: event.module:1212
+msgid "All views"
+msgstr "Tutte le viste"
+
+#: event.module:1212
+msgid "Only in views for this type"
+msgstr "Solo in viste per questo tipo"
+
+#: event.module:1212
+msgid "None: This content type will not be associated with the events calendar.<br />All views: This content type will be available for display on all calendar views, including with other events.<br />Only in views for this type: This content type will only appear in calendar views specific to this type and never with other events."
+msgstr "Nessuno: Il tipo di contenuto non sarà associato con il calendario eventi.<br />Tutte le viste: Questo tipo di contenuto sarà disponibile per la visualizzazione in tutte le viste calendario, insieme ad altri eventi.<br />Solo in viste per questo tipo: Questo tipo di contenuto apparirà solo in viste calendario specifiche per questo tipo e mai con altri eventi,"
+
+#: event.module:1218
+msgid "Start"
+msgstr "Inizio"
+
+#: event.module:1218
+msgid "Start date."
+msgstr "Data inizio."
+
+#: event.module:1220
+msgid "End"
+msgstr "Fine"
+
+#: event.module:1220
+msgid "End date."
+msgstr "Data di fine."
+
+#: event.module:1223
+msgid "Time zone"
+msgstr "Fuso orario"
+
+#: event.module:1223
+msgid "Select the time zone this event occurs in."
+msgstr "Seleziona il fuso orario in cui avviene questo evento."
+
+#: event.module:1356
+msgid "Lets users make events and keep calendars."
+msgstr "Permette agli utenti di pubblicare eventi e mantenere un calendario."
+
+#: event.module:1359
+msgid ""
+"\n"
+"      <h3>Background</h3>\n"
+"      <p>This version of event module implements the drupal nodeapi system. There is no native event node type as in versions previous to 4.6, but instead node types can be 'event-enabled' through the %configure-link, the same way in which file attachments are assigned to node types with upload.module. This, combined with the dynamic content type functionality of %flexinode-link, make it possible to define almost any kind of calendar.</p>\n"
+"      <p>Node types can be assigned to general calendar views, or only on their own calendar. For example, this makes it possible to have a general calendar which shows all 'meetups' and 'house parties' in the same place, but perhaps have a separate calendar for 'rallies' which only contains that type. The ability to filter calendar views by node type and taxonomy is also implemented, which allows many different possibilities for displaying content in the calendar system.</p>\n"
+"      \n"
+"      <h3><a id=\"url-format\"></a>Calendar display url formats</h3>\n"
+"      The ability to filter calendar views by content type and taxonomy enables almost unlimited possibilities for displaying content with the calendar system. You can combine taxonomy and content type filters, the url construction scheme is currently as follows:\n"
+"      <blockquote>\n"
+"      ?q=event/$year/$month/$day/$view_type/$content_type/$taxonomy_terms/$duration<br /><br />\n"
+"      <strong>$year:</strong> year value such as '2005'<br />\n"
+"      <strong>$month:</strong> month value with leading zeroes such as '02' for february<br />\n"
+"      <strong>$day:</strong> day value with leading zeroes such as '14'<br />\n"
+"      <strong>$view_type:</strong> type of calendar layout, values may include 'month', 'week', 'day', and 'table'<br />\n"
+"      <strong>$content_type:</strong> list of node types, separated by '+'. Flexinode types only require the integer value of the type. For example, to view story nodes and type flexinode-1, you would use 'story+1'. The value 'all' will show all types.<br />\n"
+"      <strong>$taxonomy_terms:</strong> list of term ids, seperated by '+'. For example to view entries assigned to the taxonomy terms with ids 4 and 9 you would use '4+9'. The value 'all' will show all terms.<br />\n"
+"      <strong>$duration:</strong> number of days to display, currently only the table view obeys this setting. Eventually it may be used to specify additional duration parameters such as multiple weeks in the week view, or months in the month view.\n"
+"      </blockquote>\n"
+"      <p>There are url wrapper functions as well, which make it possible to easily create menu items to calendars by event type or taxonomy terms. This is necessary if you wish to create a link to a calendar but do not have a way to dynamically create the url based on the date, like in the menu or in a post.</p>\n"
+"      <p>For links to a taxonomy filtered calendar the format is:\n"
+"      <blockquote>\n"
+"      ?q=event/term/$taxonomy_terms<br /><br />\n"
+"      <strong>$taxonomy_terms:</strong> list of term ids, seperated by '+'. For example to view entries assigned to the taxonomy terms with ids 4 and 9 you would use '4+9'<br />\n"
+"      </blockquote>\n"
+"      For links to a content type filtered calendar the format is:\n"
+"      <blockquote>\n"
+"      ?q=event/type/$content_type<br /><br />\n"
+"      <strong>$content_type:</strong> list of node types, separated by '+'. Flexinode types only require the integer value of the type. For example, to view story nodes and type flexinode-1, you would use 'story+1'\n"
+"      </blockquote></p>"
+msgstr ""
+"\n"
+"    <h3>Background</h3>\n"
+"    <p>Questa versione del modulo evento implementa il sistema nodeapi di Drupal. Non esiste un tipo nodo evento nativo, come nelle versioni precedenti alla 4.6; invece, i tipi di nodi possono essere 'abilitati come eventi' attraverso il %configure-link, nello stesso modo in cui i file allegati vengono assegnati ai tipi di nodi nel modulo upload. Questo, combinato con la funzionalità di tipo contenuto dinamico di %flexinode-link, rendendo possibile definire qualsiasi tipo di calendario.</p>\n"
+"    <p>Tipi di nodi possono essere assegnati a viste calendario generali, o solamente ai propri calendari. Per esempio, questo rende possibile avere un calendario generale che mostra tutte le 'riunioni' e le 'feste' insieme, ma avere un calendario generale per i 'rally' che contenga solo quel tipo. E'anche implementata la possibilità di filtrare le viste calendario per tipo nodo e categoria, che permette diverse possibilità per visualizzare contenuti nel sistema di calendari.</p>\n"
+"   \n"
+"   <h3><a id=\"url-format\"></a>Formati url per la visualizzazione calendari</h3>\n"
+"La possibilità di filtrare viste calendario per tipo contenuto e categoria permette infinite possibilità per visualizzare contenuti con il sistema calendario.Puoi combinare filtri categorie e e tipi contenuto, lo schema di costruzione url è attualmente come segue:\n"
+"      <blockquote>\n"
+"      ?q=event/$anno/$mese/$giorno/$tipo_vista/$tipo_contenuto/$termini_categorie/$durata<br /><br />\n"
+"      <strong>$anno:</strong> valore anno, ad es. '2005'<br />\n"
+"      <strong>$mese:</strong> valore mese a due cifre, ad es. '02' per febbraio<br />\n"
+"      <strong>$giorno:</strong> valor giorno a due cifre, ad esempio '14'<br />\n"
+"      <strong>$tipo_vista:</strong> tipo di vista calendario, i valori possono essere  'month', 'week', 'day', e 'table'<br />\n"
+"      <strong>$tipo_contenuto:</strong> lista di tipi di nodo, separata da '+'. I tipi nodo creati con il modulo Flexinode richiedono solo il valore intero del tipo. Per esempio, per visualizzare nodi di tipo 'story' e 'flexinode-1', userai  'story+1'. Il valore 'all' mostrerà tutti i tipi.<br />\n"
+"      <strong>$termini_categorie:</strong> lista di termini, separati da '+'. Per esempio per visualizzare eventi assegnati alle categorie i cui termini sono identificati da 4 e 9, userai '4+9'. Il valore 'all' mostrerà tutti i termini.<br />\n"
+"      <strong>$durata:</strong> numero di giorni da visualizzare; attualmente solo la vista tabellare usa questo parametro. Eventualmente, può essere usato per specificare parametri di durata addizionali, come il numero di settimane nella vista settimanale o il numero di mesi nella vista mensile.\n"
+"      </blockquote>\n"
+"      <p>Cisono anche funzioni che rendono possibile creare facilmente elementi di menu che puntino a calendari per tipo di evento o per termini di categorie. Questo è necessario se vuoi creare un link ad un calendario ma non hai modo di creare dinamicamente l'url basato sulla data, come nel menu o nella visualizzazione di un contenuto pubblicato.</p>\n"
+"   <p>Per links ad un calendario filtrato per categorie il formato è:\n"
+"      <blockquote>\n"
+"      ?q=event/term/$termini_categorie<br /><br />\n"
+"      <strong>$termini_categorie:</strong> lista di tutti i termini, separati da '+'. Per esempio per visualizzare tutte gli eventi assegnati ai termini identificati da 4 e 9, userai '4+9'<br />\n"
+"      </blockquote>\n"
+"      Per links a calendari filtrati per tipo di contenuto il formato è:\n"
+"      <blockquote>\n"
+"      ?q=event/type/$tipo_contenuto<br /><br />\n"
+"      <strong>$tipo_contenuto:</strong> lista di tipi di nodo, separati da  '+'. Tipi definiti dal modulo Flexinode richiedono solo la parte intera del tipo. Per esempio, per visualizzare nodi di tipo 'story' e 'flexinode-1', userai 'story+1'\n"
+"      </blockquote></p>"
+
+#: event.module:1387
+msgid "content type management admin area"
+msgstr "area di amministrazione delle tipologie di contenuti"
+
+#: event.module:1387
+msgid "flexinode"
+msgstr "flexinode"
+
+#: event.module:1154
+msgid "1 minute"
+msgid_plural "%count minutes"
+msgstr[0] "1 minuto"
+msgstr[1] "%count minuti"
+
+#: event.module:1157
+msgid "1 hour"
+msgid_plural "%count hours"
+msgstr[0] "1 ora"
+msgstr[1] "%count ore"
+
+#: event.module:1169
+msgid "1 day"
+msgid_plural "%count days"
+msgstr[0] "1 giorno"
+msgstr[1] "%count giorni"
+
+#: event.module:0
+msgid "event"
+msgstr "evento"
+
+#: event.theme:59;79;99;119
+msgid "limit view to events of this type"
+msgstr "limite visualizzazione ad eventi di questo tipo"
+
+#: event.theme:61;81;101;121
+msgid "view this event"
+msgstr "visualizza questo evento"
+

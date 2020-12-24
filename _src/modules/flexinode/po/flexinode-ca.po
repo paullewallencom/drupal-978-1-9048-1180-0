@@ -1,0 +1,540 @@
+# Traducció al català del mòdul flexinode.
+# Aquesta traducció ha estat finançada per interactors. <http://interactors.coop/>.
+# Gerard Farràs <gerard.farras@km103.com>, 2005.
+# Interactors <info@interactors.coop>, 2005.
+# 
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Drupal 4.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2004-04-10 15:29+0200\n"
+"PO-Revision-Date: 2005-08-24 21:43+0200\n"
+"Last-Translator: Gerard Farràs <gerard.farras@km103.com>\n"
+"Language-Team: Catalan <info@interactors.coop>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n == 1)"
+
+#: flexinode.module:33
+msgid "Allows administrators to define their own content types."
+msgstr "Permet als administradors definir els seus propis tipus de contingut."
+
+#: flexinode.module:35
+msgid ""
+"\n"
+"<p>Flexinode is a module that allows non-programmers to create new node\n"
+"types (flexible content types) in Drupal when their needs are modest.\n"
+"Users can define the fields in the node edit form for their content type,\n"
+"and can either view the nodes as presented by the module or modify the\n"
+"presentation in their theme.</p>\n"
+"\n"
+"<h3>Editing Content Types</h3>\n"
+"\n"
+"<p>The administration pages for this module are located at:<br />\n"
+"Administration -> Content Management -> Content Types<br />\n"
+"Click on \"add content type\" to make a new one. On this page you can set\n"
+"the title of your new content type and some related information.</p>\n"
+"\n"
+"<p>Once you save your new type, you can add new custom fields to it using\n"
+"the links on the overview page. You can add text fields, dropdown menus,\n"
+"check boxes, file uploads, and other input elements. The Title and\n"
+"Description fields are always shown.</p>\n"
+"\n"
+"<h3>Viewing Content</h3>\n"
+"\n"
+"<p>Adding flexible content is just like adding other nodes; pick the\n"
+"appropriate link from the user menu. The node will show up alongside\n"
+"all normal nodes.</p>\n"
+"\n"
+"<h3>Theming Content</h3>\n"
+"\n"
+"<p>Every custom field is set as a property of the node. To create a custom\n"
+"presentation for your new content type, add logic in your theme's node\n"
+"function to switch on the node type and print out the fields in the\n"
+"way you choose. The fields are all named flexinode_n where n is the\n"
+"field ID.</p>\n"
+msgstr ""
+"\n"
+"<p>El Flexinode és un mòdul que permet als usuaris no-programadors crear\n"
+"nou tipus de nodes (tipus de contingut flexibles) en el Drupal quan les seves necessitats son modestes.\n"
+"Els usuaris poden definir els camps en el formulari d'edició de node per al seu tipus de contingut,\n"
+"i poden visualitzar els nodes tal i com seran presentats pel mòdul o modificar la\n"
+"presentació en el seu tema.</p>\n"
+"\n"
+"<h3>Editant els tipus de contingut</h3>\n"
+"\n"
+"<p>Les pàgines d'administració per aquest mòdul s'ubiquen a:<br />\n"
+"Administració -> Gestió del contingut -> Tipus de contingut<br />\n"
+"Feu clic a \"afegeix tipus de contingut\" per a crear-ne un de nou. En aquesta pàgina podeu definir\n"
+"el títol del vostre nou tipus de contingut i d'altra informació relacionada.</p>\n"
+"\n"
+"<p>Una vegada hagueu desat el nou tipus, podreu afegir-hi nous camps personalitzats utilitzant\n"
+"els enllaços en la pàgina de vista general. Podeu afegir camps de text, quadres combinats,\n"
+"caselles de verificació, controls de càrrega de fitxers, i d'altres elements d'entrada. Els camps Títol i\n"
+"Descripció es mostraran sempre.</p>\n"
+"\n"
+"<h3>Visualitzant contingut</h3>\n"
+"\n"
+"<p>Afegir contingut flexible és un procés idèntic a afegir altres nodes, feu clic \n"
+"a l'enllaç apropiat en el menú d'usuari. El node es mostrarà com a tots els\n"
+"altres nodes normals.</p>\n"
+"\n"
+"<h3>Aplicant un tema al contingut</h3>\n"
+"\n"
+"<p>Cada camp personalitzat es defineix com una propietat del node. Per a crear una presentació\n"
+"personalitzada del nou tipus de contingut, heu d'afegir lògica en la funció del tema del node\n"
+"a canviar-se en el tipus de node i mostrar els camps de la manera que escolliu.\n Tots els camps s'anomenen flexinode_n on n és l'identificador ID del camp.</p>\n"
+
+#: flexinode.module:69
+msgid ""
+"You may define your own content types here. These will be extensions of\n"
+"the basic \"story\" node type with additional fields that you specify.\n"
+"Choose \"add content type\" in the menu to add a new type. Make a selection\n"
+"below to edit an existing type or field. To delete a field or entire\n"
+"content type, first open the editing form for that field or type."
+msgstr ""
+"Aquí podeu definir els vostres propis tipus de contingut. Aquests seran extensions\n"
+"del tipus de node bàsic \"història\" amb els camps addicionals que especifiqueu.\n"
+"Escolliu \"afegeix tipus de contingut\" en el menú per afegir un nou tipus. Feu una selecció\n"
+"a sota per a editar un tipus o camp existent. Per a suprimir un camp o un tipus de \n"
+"contingut sencer, primer obriu el formulari d'edició per aquest camp o tipus."
+
+#: flexinode.module:123
+msgid "edit this %nodename"
+msgstr "edita aquest %nodename"
+
+#: flexinode.module:142
+msgid "list view"
+msgstr "llista vista"
+
+#: flexinode.module:145
+msgid "tabular view"
+msgstr "vista tabular"
+
+#: flexinode.module:148
+msgid "search"
+msgstr "cerca"
+
+#: flexinode.module:151
+msgid "rss feed"
+msgstr "canal rss"
+
+#: flexinode.module:156
+msgid "content types"
+msgstr "tipus de contingut"
+
+#: flexinode.module:158
+msgid "list"
+msgstr "llista"
+
+#: flexinode.module:160
+msgid "add content type"
+msgstr "afegeix tipus de contingut"
+
+#: flexinode.module:163 ;476
+msgid "edit content type"
+msgstr "edita tipus de contingut"
+
+#: flexinode.module:166
+msgid "add field"
+msgstr "afegeix camp"
+
+#: flexinode.module:169 ;480
+msgid "edit field"
+msgstr "edita camp"
+
+#: flexinode.module:173
+msgid "update"
+msgstr "actualitza"
+
+#: flexinode.module:217 ;229;264
+msgid "Search"
+msgstr "Cerca"
+
+#: flexinode.module:224
+msgid "search for phrase"
+msgstr "cerca per frase"
+
+#: flexinode.module:231
+msgid "search %type"
+msgstr "cerca %type"
+
+#: flexinode.module:284
+msgid "title"
+msgstr "títol"
+
+#: flexinode.module:318
+msgid "%type search results"
+msgstr "%type resultats de cerca"
+
+#: flexinode.module:331 ;365;399;437;887;983
+msgid "Submit"
+msgstr "Tramet"
+
+#: flexinode.module:340 ;374;412;450;889;942;985;1049
+msgid "Delete"
+msgstr "Suprimeix"
+
+#: flexinode.module:470
+msgid "name"
+msgstr "nom"
+
+#: flexinode.module:470
+msgid "description"
+msgstr "descripció"
+
+#: flexinode.module:470
+msgid "operations"
+msgstr "operacions"
+
+#: flexinode.module:478
+msgid "Title"
+msgstr "Títol"
+
+#: flexinode.module:486
+msgid "add %fieldtype"
+msgstr "afegeix %fieldtype"
+
+#: flexinode.module:512
+msgid "flexible content"
+msgstr "contingut flexible"
+
+#: flexinode.module:883
+msgid "Content type name"
+msgstr "Nom del tipus de contingut"
+
+#: flexinode.module:884 ;973
+msgid "Description"
+msgstr "Descripció"
+
+#: flexinode.module:884
+msgid "A one-line description of the content type."
+msgstr "Descripció en una sola línia del tipus de contingut."
+
+#: flexinode.module:885
+msgid "Help text"
+msgstr "Text d'ajuda"
+
+#: flexinode.module:885
+msgid ""
+"Instructions to present to the user when adding new content of this type."
+msgstr ""
+"Instruccions a mostrar a l'usuari quan s'afegeixi nou contingut d'aquest tipus."
+
+#: flexinode.module:902
+msgid "You must give this content type a name."
+msgstr "Heu de proporcionar un nom a aquest tipus de contingut."
+
+#: flexinode.module:921
+msgid "updated content type \"%name\"."
+msgstr "actualitzat el tipus de contingut \"%name\"."
+
+#: flexinode.module:928
+msgid "created new content type \"%name\"."
+msgstr "nou tipus de contingut \"%name\" creat."
+
+#: flexinode.module:943 ;1050
+msgid "Cancel"
+msgstr "Cancel·la"
+
+#: flexinode.module:945
+msgid "Delete content type \"%name\""
+msgstr "Suprimeix el tipus de contingut \"%name\""
+
+#: flexinode.module:945
+msgid ""
+"Are you sure you want to delete the content type? All nodes created using "
+"this content type will be lost."
+msgstr ""
+"Esteu segur que desitgeu suprimir aquest tipus de contingut? Tots els nodes creats amb aquest tipus de contingut es perdran."
+
+#: flexinode.module:961
+msgid "deleted content type \"%name\"."
+msgstr "suprimit el tipus de contingut \"%name\"."
+
+#: flexinode.module:971
+msgid "Field label"
+msgstr "Camp etiqueta"
+
+#: flexinode.module:973
+msgid ""
+"A brief description of the field, to be displayed on the content submission "
+"form."
+msgstr ""
+"Una breu descripció del camp, a ser mostrada en el formulari de submissió de contingut."
+
+#: flexinode.module:978
+msgid "Required field"
+msgstr "Camp obligatori"
+
+#: flexinode.module:978
+msgid "Whether the user must fill in the field when creating content."
+msgstr "Si l'usuari ha d'omplir el camp quan estigui creant contingut."
+
+#: flexinode.module:979
+msgid "Show in teaser"
+msgstr "Mostra en el resum"
+
+#: flexinode.module:979
+msgid "Whether this field should be shown as part of the teaser."
+msgstr "Si el camp s'ha de mostrar com a part del resum."
+
+#: flexinode.module:980
+msgid "Show in table"
+msgstr "Mostra en una taula"
+
+#: flexinode.module:980
+msgid ""
+"Whether this field should be shown as part of this content type's <a href=\"%"
+"table\">tabular view</a>."
+msgstr ""
+"Si el camp s'ha de mostrar com a part del tipus de contingut en <a href=\"%table\">vista tabular</a>."
+
+#: flexinode.module:981
+msgid "Weight"
+msgstr "Pes"
+
+#: flexinode.module:981
+msgid ""
+"Optional. On the content editing form, the heavier fields will sink and the "
+"lighter fields will be positioned nearer the top."
+msgstr ""
+"Opcional. En el formulari d'edició de contingut, els camps més pesants s'enfonsaran mentre que els camps més lleugers es posicionaran més aprop de la part superior."
+
+#: flexinode.module:1001
+msgid "You must give this field a label."
+msgstr "Heu de donar una etiqueta a aquest camp."
+
+#: flexinode.module:1028
+msgid "updated field \"%name\"."
+msgstr "camp \"%name\" actualitzat."
+
+#: flexinode.module:1035
+msgid "created new field \"%name\"."
+msgstr "nou camp \"%name\" creat."
+
+#: flexinode.module:1052
+msgid "Delete field \"%name\""
+msgstr "Camp \"%name\" suprimit"
+
+#: flexinode.module:1052
+msgid ""
+"Are you sure you want to delete this field? All data in this field will be "
+"lost."
+msgstr ""
+"Esteu segur que voleu suprimir aquest camp? Es perdrà tota la informació d'aquest camp."
+
+#: flexinode.module:1063
+msgid "deleted field \"%name\"."
+msgstr "camp \"%name\" suprimit."
+
+#: flexinode.module:1107
+msgid " feed"
+msgstr "canal"
+
+#: flexinode.module:0
+msgid "flexinode"
+msgstr "flexinode"
+
+#: field_timestamp.inc:5
+msgid "date/time"
+msgstr "data/hora"
+
+#: field_timestamp.inc:58
+msgid "January"
+msgstr "Gener"
+
+#: field_timestamp.inc:58
+msgid "February"
+msgstr "Febrer"
+
+#: field_timestamp.inc:58
+msgid "March"
+msgstr "Març"
+
+#: field_timestamp.inc:58
+msgid "April"
+msgstr "Abril"
+
+#: field_timestamp.inc:58
+msgid "May"
+msgstr "Maig"
+
+#: field_timestamp.inc:58
+msgid "June"
+msgstr "Juny"
+
+#: field_timestamp.inc:58
+msgid "July"
+msgstr "Juliol"
+
+#: field_timestamp.inc:58
+msgid "August"
+msgstr "Agost"
+
+#: field_timestamp.inc:58
+msgid "September"
+msgstr "Setembre"
+
+#: field_timestamp.inc:58
+msgid "October"
+msgstr "Octubre"
+
+#: field_timestamp.inc:58
+msgid "November"
+msgstr "Novembre"
+
+#: field_timestamp.inc:58
+msgid "December"
+msgstr "Desembre"
+
+#: field_timestamp.inc:62
+msgid "am"
+msgstr "am"
+
+#: field_timestamp.inc:62
+msgid "pm"
+msgstr "pm"
+
+#: field_checkbox.inc:34 field_select.inc:41
+msgid "Any"
+msgstr "Qualsevol"
+
+#: field_file.inc:11 field_image.inc:14 contrib/field_mp3.inc:14
+msgid ""
+"\"%filename\" has been uploaded. If you upload another file, the current "
+"file will be replaced."
+msgstr ""
+"\"%filename\" ha estat carregat. Si carregueu algun altre fitxer, es reemplaçarà el fitxer actual."
+
+#: field_image.inc:87 field_select.inc:70
+msgid "Options"
+msgstr "Opcions"
+
+#: field_select.inc:68 flexinode.module:408 ;446
+msgid "More"
+msgstr "Més"
+
+#: field_textarea.inc:43 field_textfield.inc:33
+#: contrib/field_colorpicker.inc:46 contrib/field_email.inc:52
+#: contrib/field_url.inc:47
+msgid "Default value"
+msgstr "Valor per defecte"
+
+#: field_checkbox.inc:5
+msgid "checkbox"
+msgstr "quadre de verificació"
+
+#: field_checkbox.inc:29 ;34
+msgid "Yes"
+msgstr "Sí"
+
+#: field_checkbox.inc:29 ;34
+msgid "No"
+msgstr "No"
+
+#: field_checkbox.inc:46
+msgid "Checked by default"
+msgstr "Activat per defecte"
+
+#: field_file.inc:5
+msgid "file"
+msgstr "fitxer"
+
+#: field_select.inc:5
+msgid "dropdown menu"
+msgstr "quadre combinat"
+
+#: field_select.inc:10 ;41
+msgid "none"
+msgstr "cap"
+
+#: field_select.inc:70
+msgid "Options for the dropdown menu. For more fields, click \"More\"."
+msgstr "Opcions pel quadre combinat. Per a més camps, feu clic a \"Més\"."
+
+#: field_textarea.inc:5
+msgid "text area"
+msgstr "àrea de text"
+
+#: field_textarea.inc:44
+msgid "Lines"
+msgstr "Línies"
+
+#: field_textarea.inc:44
+msgid "How large the text area will be."
+msgstr "Com de gran serà l'àrea de text."
+
+#: field_textfield.inc:5
+msgid "text field"
+msgstr "camp de text"
+
+#: contrib/field_colorpicker.inc:8
+msgid "color picker"
+msgstr "capturador de color"
+
+#: contrib/field_colorpicker.inc:21
+msgid "Must be a valid color format: e.g. #CCC or #1144AA."
+msgstr "Ha de ser un format de color vàlid: ex. #CCC o #1144AA."
+
+#: contrib/field_email.inc:5
+msgid "e-mail address"
+msgstr "adreça de correu electrònica"
+
+#: contrib/field_email.inc:41
+msgid "The email address is not valid."
+msgstr "L'adreça de correu electrònica no és vàlida."
+
+#: contrib/field_gallery.inc:4
+msgid "image gallery"
+msgstr "galeria d'imatges"
+
+#: contrib/field_gallery.inc:20
+msgid "Image Galleries"
+msgstr "galeries d'imatges"
+
+#: contrib/field_gallery.inc:20
+msgid "The image galleries to associate."
+msgstr "La galeria d'imatges a associar."
+
+#: contrib/field_gallery.inc:23
+msgid ""
+"Warning: you must assign a vocabulary to navigate in image gallery. Fix in %"
+"url"
+msgstr ""
+"Avís: Heu d'assignar un vocabulari per a navegar per la galeria d'imatges. Arregleu-ho a %url"
+
+#: contrib/field_gallery.inc:23
+msgid "Site Configuration"
+msgstr "Configuració del lloc web"
+
+#: contrib/field_mp3.inc:4
+msgid "MP3"
+msgstr "MP3"
+
+#: contrib/field_mp3.inc:84 ;89
+msgid "The file you are trying to upload is too big."
+msgstr "El fitxer que esteu intentant carregar és massa gran."
+
+#: contrib/field_mp3.inc:94
+msgid "The file was only partially uploaded. Please try again."
+msgstr "El fitxer ha estat carregat només parcialment. Si us plau, torneu-ho a intentar."
+
+#: contrib/field_mp3.inc:85 ;90
+msgid "error"
+msgstr "error"
+
+#: contrib/field_table.inc:4
+msgid "table"
+msgstr "taula"
+
+#: contrib/field_url.inc:5
+msgid "URL"
+msgstr "URL"
+
+#: contrib/field_url.inc:37
+msgid "The url is not valid."
+msgstr "La url no és vàlida."
+

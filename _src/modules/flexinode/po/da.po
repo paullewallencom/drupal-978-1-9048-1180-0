@@ -1,0 +1,320 @@
+# Danish translation of Drupal (flexinode.module)
+# Copyright 2005 Morten Wulff <wulff@psyke.org>
+msgid ""
+msgstr ""
+"Project-Id-Version: Danish translation of Drupal (flexinode.module) $Id: da.po,v 1.2 2006/01/16 08:33:45 wulff Exp $\n"
+"POT-Creation-Date: 2004-04-19 17:06+0200\n"
+"PO-Revision-Date: 2006-01-16 09:28+0100\n"
+"Last-Translator: Morten Wulff <wulff@tem.dtu.dk>\n"
+"Language-Team: Danish <danish@psyke.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: Danish\n"
+"X-Poedit-Country: DENMARK\n"
+
+#: contributions-HEAD\modules\flexinode\flexinode.module:36
+msgid "The flexinode module allows administrators to create simple new content types.  Administrators find it very useful to create new types of content without having to program a new content module."
+msgstr "Flexinodemodulet lader administratorer oprette simple, nye indholdstyper. Administratorer finder det nyttigt at oprette nye indholdstyper uden at skulle programmere et nyt indholdsmodul."
+
+#: contributions-HEAD\modules\flexinode\flexinode.module:37
+msgid "When creating a new flexinode, administrators are presented with a flexinode form to create their new content type.  Once administrators have created their flexinode they can accept the format or choose to theme the content type to change it's presentation.  For users, creating content that is a flexinode is just like adding other content. The flexinode content type will show up alongside all normal content."
+msgstr "Når en ny flexinode oprettes, præsenteres adminstratorer for en flexinodeformular hvor de kan oprette den nye indholdstype. Når administratorer har oprettet en flexinode kan de acceptere det givne format eller vælge ændre præsentation af indholdstypen med et tema. Brugere opretter flexinodeindhold på samme måde som andet indhold. Flexinode indholdstypen vises på linje med normalt indhold."
+
+#: contributions-HEAD\modules\flexinode\flexinode.module:38
+msgid ""
+"<p>You can</p>\n"
+"<ul>\n"
+"<li>create a flexinode content type at <a href=\"%admin-node-types\" title=\"administer content types to add a flexinode\"> administer &gt;&gt; content &gt;&gt; content types</a> and select <strong>add content type</strong>.</li>\n"
+"<li><a href=\"%node-add\" title=\"create a new flexinode type\">create content &gt;&gt; add type.</a></li>\n"
+"<li>administer flexinode at <a href=\"%admin-settings-flexinode\">administer &gt;&gt; settings &gt;&gt; flexinode</a>.</li>\n"
+msgstr ""
+"<p>Du kan</p>\n"
+"<ul>\n"
+"<li>oprette en flexinode indholdstype: <a href=\"%admin-node-types\" title=\"administrer indholdstyper for at tilføje en flexinode\">administration &gt;&gt; indhold &gt;&gt; indholdstyper</a>, vælg <strong>tilføj indholdstype</strong>.</li>\n"
+"<li><a href=\"%node-add\" title=\"opret en ny flexinode\">Opret indhold &gt;&gt; tilføj type</a></li>\n"
+"<li>Administrere flexinode: <a href=\"%admin-settings-flexinode\">administration &gt;&gt; indstillinger &gt;&gt; flexinode</a>.</li>\n"
+"</ul>\n"
+
+#: contributions-HEAD\modules\flexinode\flexinode.module:44
+msgid "For more information please read the configuration and customization handbook <a href=\"%flexinode\">Flexinode page</a>."
+msgstr "Læs siden om <a href=\"%page\">flexinode</a> i håndbogen om konfiguration og tilpasning for yderligere information."
+
+#: contributions-4-6\modules\flexinode\flexinode.module:33;47
+msgid "Allows administrators to define their own content types."
+msgstr "Administratorer kan definere deres egne indholdstyper."
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:49;69
+msgid "You may manage your own content types here. These will all have a \"title\" field to start off, and contain additional fields that you specify. Choose the \"add content type\" tab to add a new type. Make a selection below to edit an existing type or field. To delete a field or entire content type, first open the editing form for that field or type."
+msgstr "Her kan du definere dine egne indholdstyper. De vil alle starte med feltet \"titel\" og vil indeholde de felter du tilføjer. Vælg \"tilføj indholdstype\" for at tilføje en ny type. Foretag et valg herunder for at redigere en eksisterende type eller et eksisterende felt. For at slette et felt eller en indholdstype skal du først åbne det pågældende felt eller type."
+
+#: contributions-HEAD\modules\flexinode\flexinode.module:51
+msgid "Once you create a content type here you will be able to add additional fields to it on the \"content types\" tab."
+msgstr "Når du har oprettet en indholdstype her, kan du tilføje yderligere felter under fanen \"indholdstyper\"."
+
+#: contributions-HEAD\modules\flexinode\flexinode.module:92
+msgid "Number of posts in flexinode listings"
+msgstr "Antal indlæg i flexinodeoversigter"
+
+#: contributions-HEAD\modules\flexinode\flexinode.module:93
+msgid "Number of posts to show on flexinode listing pages."
+msgstr "Antal indlæg der vises i flexinodeoversigter."
+
+#: contributions-HEAD\modules\flexinode\flexinode.module:109;123
+msgid "edit this %nodename"
+msgstr "rediger denne %nodename"
+
+#: contributions-HEAD\modules\flexinode\flexinode.module:134;142
+msgid "list view"
+msgstr "listevisning"
+
+#: contributions-HEAD\modules\flexinode\flexinode.module:141;145
+msgid "tabular view"
+msgstr "tabelvisning"
+
+#: contributions-HEAD\modules\flexinode\flexinode.module:148;151
+msgid "rss feed"
+msgstr "rss str'm"
+
+#: contributions-HEAD\modules\flexinode\flexinode.module:156;158
+msgid "content types"
+msgstr "indholdstyper"
+
+#: contributions-HEAD\modules\flexinode\flexinode.module:160;165
+msgid "add content type"
+msgstr "tilføj indholdstype"
+
+#: contributions-HEAD\modules\flexinode\flexinode.module:163;172;476
+msgid "delete content type"
+msgstr "slet indholdstype"
+
+#: contributions-HEAD\modules\flexinode\flexinode.module:169;179;480
+msgid "edit fields"
+msgstr "rediger felter"
+
+#: contributions-HEAD\modules\flexinode\flexinode.module:173;186
+msgid "update"
+msgstr "opdater"
+
+#: contributions-HEAD\modules\flexinode\flexinode.module:259;284
+msgid "title"
+msgstr "titel"
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:318
+#: contributions-HEAD\modules\flexinode\flexinode.module:292
+#: ;300
+msgid "%type search results"
+msgstr "%type resultater"
+
+#: contributions-HEAD\modules\flexinode\flexinode.module:295
+msgid "Your search yielded no results"
+msgstr "Din søgning gav ingen resultater"
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:1107
+#: contributions-HEAD\modules\flexinode\flexinode.module:326
+msgid " feed"
+msgstr "strøm"
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:163;476
+#: contributions-HEAD\modules\flexinode\flexinode.module:343
+msgid "edit content type"
+msgstr "rediger indholdstype"
+
+#: contributions-HEAD\modules\flexinode\flexinode.module:344
+msgid "settings"
+msgstr "indstillinger"
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:169;480
+#: contributions-HEAD\modules\flexinode\flexinode.module:350
+msgid "edit field"
+msgstr "rediger felt"
+
+#: contributions-HEAD\modules\flexinode\flexinode.module:358
+msgid "No flexinode content types have been defined. You can <a href=\"%url\">add a new content type</a>."
+msgstr "Ingen flexinode indholdstyper defineret. Du kan <a href=\"%url\">tilføje en ny indholdstype</a>."
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:166
+#: contributions-HEAD\modules\flexinode\flexinode.module:378
+#: ;1082
+msgid "Add field"
+msgstr "Tilføj felt"
+
+#: contributions-HEAD\modules\flexinode\flexinode.module:383
+#: ;876
+msgid "Confirm"
+msgstr "Bekræft"
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:340;374;412;450;889;942;985;1049
+#: contributions-HEAD\modules\flexinode\flexinode.module:388
+#: ;828;847;1016
+msgid "Delete"
+msgstr "Slet"
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:408;446
+#: contributions-HEAD\modules\flexinode\flexinode.module:392
+msgid "More"
+msgstr "Flere"
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:512
+#: contributions-HEAD\modules\flexinode\flexinode.module:446
+msgid "flexible content"
+msgstr "fleksibelt indhold"
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:478
+#: contributions-HEAD\modules\flexinode\flexinode.module:585
+msgid "Title"
+msgstr "Titel"
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:883
+#: contributions-HEAD\modules\flexinode\flexinode.module:802
+msgid "Content type name"
+msgstr "Indholdstypens navn"
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:884;973
+#: contributions-HEAD\modules\flexinode\flexinode.module:810
+#: ;965
+msgid "Description"
+msgstr "Beskrivelse"
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:884
+#: contributions-HEAD\modules\flexinode\flexinode.module:814
+msgid "A one-line description of the content type."
+msgstr "En kort beskrivelse af indholdstypen."
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:885
+#: contributions-HEAD\modules\flexinode\flexinode.module:818
+msgid "Help text"
+msgstr "Hjælp"
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:885
+#: contributions-HEAD\modules\flexinode\flexinode.module:822
+msgid "Instructions to present to the user when adding new content of this type."
+msgstr "Instruktioner, der vises til brugeren, når nyt indhold af denne type tilføjes."
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:331;365;399;437;887;983
+#: contributions-HEAD\modules\flexinode\flexinode.module:825
+#: ;999
+msgid "Submit"
+msgstr "Indsend"
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:902
+#: contributions-HEAD\modules\flexinode\flexinode.module:839
+msgid "You must give this content type a name."
+msgstr "Du skal navngive indholdstypen."
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:921
+#: contributions-HEAD\modules\flexinode\flexinode.module:857
+msgid "updated content type \"%name\"."
+msgstr "indholdstype \"%name\" opdateret"
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:928
+#: contributions-HEAD\modules\flexinode\flexinode.module:864
+msgid "created new content type \"%name\"."
+msgstr "indholdstype \"%name\" oprettet"
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:945
+#: contributions-HEAD\modules\flexinode\flexinode.module:890
+msgid "Are you sure you want to delete the content type \"%name\"? All nodes of this type will be lost."
+msgstr "Ønsker du at slette indholdstypen \"%name\"? Alle indholdselementer af denne type vil gå tabt."
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:160
+#: contributions-HEAD\modules\flexinode\flexinode.module:906
+msgid "deleted content type"
+msgstr "slettet indholdstype"
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:971
+#: contributions-HEAD\modules\flexinode\flexinode.module:959
+msgid "Field label"
+msgstr "felt etiket"
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:973
+#: contributions-HEAD\modules\flexinode\flexinode.module:967
+msgid "A brief description of the field, to be displayed on the content submission form."
+msgstr "En kort beskrivelse af feltet, der vises når nyt indhold oprettes."
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:978
+#: contributions-HEAD\modules\flexinode\flexinode.module:974
+msgid "Required field"
+msgstr "Påkrævet felt"
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:978
+#: contributions-HEAD\modules\flexinode\flexinode.module:976
+msgid "Whether the user must fill in the field when creating content."
+msgstr "Skal brugeren udfylde feltet når nyt indhold oprettes."
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:979
+#: contributions-HEAD\modules\flexinode\flexinode.module:980
+msgid "Show in teaser"
+msgstr "Vis i sammendrag"
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:979
+#: contributions-HEAD\modules\flexinode\flexinode.module:982
+msgid "Whether this field should be shown as part of the teaser."
+msgstr "Skal feltet vises som en del af sammendraget."
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:980
+#: contributions-HEAD\modules\flexinode\flexinode.module:986
+msgid "Show in table"
+msgstr "Vis i tabel"
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:980
+#: contributions-HEAD\modules\flexinode\flexinode.module:988
+msgid "Whether this field should be shown as part of this content type's <a href=\"%table\">tabular view</a>."
+msgstr "Skal feltet vises i indholdstypens <a href=\"%table\">tabelvisning</a>."
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:981
+#: contributions-HEAD\modules\flexinode\flexinode.module:992
+msgid "Weight"
+msgstr "Vægt"
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:981
+#: contributions-HEAD\modules\flexinode\flexinode.module:995
+msgid "Optional. On the content editing form, the heavier fields will sink and the lighter fields will be positioned nearer the top."
+msgstr "Valgfri. Når nyt indhold tilføjes vil tunge felter synke ned og lette felter blive vist i toppen."
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:1001
+#: contributions-HEAD\modules\flexinode\flexinode.module:1036
+msgid "You must give this field type a label."
+msgstr "Du skal angive en etiket for denne felttype."
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:1001
+#: contributions-HEAD\modules\flexinode\flexinode.module:1054
+msgid "You must give this field a label."
+msgstr "Du skal angive en etiket."
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:486
+#: contributions-HEAD\modules\flexinode\flexinode.module:1069
+msgid "add %fieldtype"
+msgstr "tilføj %fieldtype"
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:1028
+#: contributions-HEAD\modules\flexinode\flexinode.module:1105
+msgid "updated field \"%name\"."
+msgstr "felt \"%name\" opdateret"
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:1035
+#: contributions-HEAD\modules\flexinode\flexinode.module:1112
+msgid "created new field \"%name\"."
+msgstr "felt \"%name\" oprettet"
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:1052
+#: contributions-HEAD\modules\flexinode\flexinode.module:1131
+msgid "Are you sure you want to delete field \"%name\"? All data in this field will be lost."
+msgstr "Ønsker du at slette feltet \"%name\"? Alle data i feltet vil gå tabt."
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:1063
+#: contributions-HEAD\modules\flexinode\flexinode.module:1142
+msgid "deleted field %name"
+msgstr "felt %name slettet"
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:971
+#: contributions-HEAD\modules\flexinode\flexinode.module:1153
+msgid "Field list"
+msgstr "Feltliste"
+
+# D:\drupal-contributions-4-6\modules\flexinode\flexinode.module:0
+#: contributions-HEAD\modules\flexinode\flexinode.module:0
+msgid "flexinode"
+msgstr "flexinode"
+

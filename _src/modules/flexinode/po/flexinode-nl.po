@@ -1,0 +1,338 @@
+# translation of flexinode-nl.po to 
+# LANGUAGE translation of FLEXINODE
+# Pepijn van Zoest <pepijn@newmoon.nl>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: flexinode-nl\n"
+"POT-Creation-Date: 2004-04-19 17:06+0200\n"
+"PO-Revision-Date: 2004-11-12 10:21+0100\n"
+"Last-Translator: Bèr Kessels <berkessels@gmx.net>\n"
+"Language-Team:  <nl@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.3.1\n"
+
+#: flexinode.module:90
+msgid "create %type"
+msgstr "%type maken"
+
+#: flexinode.module:94;95;96;381
+msgid "flexible content"
+msgstr "flexiebele inhoud"
+
+#: flexinode.module:99
+msgid "content types"
+msgstr "inhoud types"
+
+#: flexinode.module:100
+msgid "add content type"
+msgstr "inhoud type toevoegen"
+
+#: flexinode.module:101;621
+msgid "edit content type"
+msgstr "inhoud type bewerken"
+
+#: flexinode.module:102
+msgid "add field"
+msgstr "een veld toevoegen"
+
+#: flexinode.module:103;626
+msgid "edit field"
+msgstr "een veld bewerken"
+
+#: flexinode.module:110
+msgid "edit this %nodename"
+msgstr "deze %nodename bewerken"
+
+#: flexinode.module:141;153;180
+msgid "Search"
+msgstr "Zoek"
+
+#: flexinode.module:148
+msgid "search for phrase"
+msgstr "zoek de zin"
+
+#: flexinode.module:155
+msgid "search %type"
+msgstr "zoek %type"
+
+#: flexinode.module:200
+msgid "title"
+msgstr "titel"
+
+#: flexinode.module:230
+msgid "%type search results"
+msgstr "%type zoek resultaten"
+
+#: flexinode.module:240;270;300;334;653;727
+msgid "Submit"
+msgstr "Toevoegen"
+
+#: flexinode.module:248;278;312;346;655;695;729;781
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: flexinode.module:308;342
+#: field_select.inc:64
+msgid "More"
+msgstr "Meer"
+
+#: flexinode.module:487;624;650;719
+msgid "Description"
+msgstr "Beschrijving"
+
+#: flexinode.module:514
+msgid "You must fill in this field."
+msgstr "Dit veld verplicht invullen."
+
+#: flexinode.module:613
+msgid "Flexible content types"
+msgstr "Flexibele inhoud types"
+
+#: flexinode.module:615
+msgid "name"
+msgstr "naam"
+
+#: flexinode.module:615
+msgid "description"
+msgstr "beschrijving"
+
+#: flexinode.module:615
+msgid "operations"
+msgstr "operaties"
+
+#: flexinode.module:623
+msgid "Title"
+msgstr "Titel"
+
+#: flexinode.module:629
+msgid "add text field"
+msgstr "voeg een tekstveld toe"
+
+#: flexinode.module:630
+msgid "add text area"
+msgstr "voeg een tekstgebied toe"
+
+#: flexinode.module:631
+msgid "add dropdown menu"
+msgstr "Voeg een uitschuifmenu toe"
+
+#: flexinode.module:632
+msgid "add checkbox"
+msgstr "Voeg een checkbox toe"
+
+#: flexinode.module:633
+msgid "add date/time"
+msgstr "Voeg datum en of tijd toe"
+
+#: flexinode.module:634
+msgid "add file"
+msgstr "voeg een bestand toe"
+
+#: flexinode.module:635
+msgid "add image"
+msgstr "Voeg een afbeelding toe"
+
+#: flexinode.module:649
+msgid "Content type name"
+msgstr "Inhoud type naam"
+
+#: flexinode.module:650
+msgid "A one-line description of the content type."
+msgstr "Een één regelige beschrijving van het inhouds type."
+
+#: flexinode.module:651
+msgid "Help text"
+msgstr "Help tekst"
+
+#: flexinode.module:651
+msgid "Instructions to present to the user when adding new content of this type."
+msgstr "Instructies voor gebruikers die nieuwe inhoud van dit type willen toevoegen"
+
+#: flexinode.module:665
+msgid "You must give this content type a name."
+msgstr "U moet dit inhouds type een naam geven."
+
+#: flexinode.module:679
+msgid "updated content type '%name'."
+msgstr "ge-update inhoud type '%name'."
+
+#: flexinode.module:686
+msgid "created new content type '%name'."
+msgstr "nieuwe inhoud gemaakt van het type '%name'."
+
+#: flexinode.module:696;782
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: flexinode.module:698
+msgid "Delete content type '%name'"
+msgstr "Verwijder inhoud type '%name'"
+
+#: flexinode.module:698
+msgid "Are you sure you want to delete the content type? All nodes created using this content type will be lost."
+msgstr "Wilt u zeker dit inhouds type verwijderen? All nodes die gemaakt zijn met dit inhouds type gaan dan verloren."
+
+#: flexinode.module:712
+msgid "deleted content type '%name'."
+msgstr "verwijder inhouds type '%name'."
+
+#: flexinode.module:717
+msgid "Field label"
+msgstr "Veld label"
+
+#: flexinode.module:719
+msgid "A brief description of the field, to be displayed on the content submission form."
+msgstr "Een korte beschrijving van het veld. Deze wordt op het formulier om inhoud toe te voegen weergegeven."
+
+#: flexinode.module:724
+msgid "Required field"
+msgstr "Verplicht veld"
+
+#: flexinode.module:724
+msgid "Whether the user must fill in the field when creating content."
+msgstr "Als de gebruiker verplicht een veld moet invullen om inhoud toe te voegen."
+
+#: flexinode.module:725
+msgid "Weight"
+msgstr "Gewicht"
+
+#: flexinode.module:725
+msgid "Optional. On the content editing form, the heavier fields will sink and the lighter fields will be positioned nearer the top."
+msgstr "Optioneel. Hiermee wordt de volgorde op het 'inhouds bewerkings formulier' bepaald. De zwaarste onderaan, de lichtste bovenaan."
+
+#: flexinode.module:742
+msgid "You must give this field a label."
+msgstr "U moet dit veld een label geven."
+
+#: flexinode.module:764
+msgid "updated field '%name'."
+msgstr "update veld '%name'."
+
+#: flexinode.module:771
+msgid "created new field '%name'."
+msgstr "een nieuw veld '%name' is gecreëerd."
+
+#: flexinode.module:784
+msgid "Delete field '%name'"
+msgstr "Verwijder veld '%name'"
+
+#: flexinode.module:784
+msgid "Are you sure you want to delete this field? All data in this field will be lost."
+msgstr "Weet u zeker dat u dit veld wilt verwijderen? Alle data in dit veld gaat dan verloren."
+
+#: flexinode.module:793
+msgid "deleted field '%name'."
+msgstr "het veld '%name' is verwijderd."
+
+#: flexinode.module:0
+msgid "flexinode"
+msgstr "flexinode"
+
+#: field_checkbox.inc:25;30
+msgid "Yes"
+msgstr "Ja"
+
+#: field_checkbox.inc:25;30
+msgid "No"
+msgstr "Nee"
+
+#: field_checkbox.inc:30
+#: field_select.inc:37
+msgid "Any"
+msgstr "Willekeurig"
+
+#: field_checkbox.inc:42
+msgid "Checked by default"
+msgstr "Standaard aangekruist"
+
+#: field_file.inc:7
+#: field_image.inc:7
+msgid "\"%filename\" has been uploaded. If you upload another file, the current file will be replaced."
+msgstr "\"%filename\" is ge-upload. Als u een ander bestand upload wordt het huidige bestand overschreven."
+
+#: field_file.inc:53
+#: field_image.inc:58
+#: field_select.inc:6;32;37
+msgid "none"
+msgstr "geen"
+
+#: field_select.inc:66
+msgid "Options"
+msgstr "Opties"
+
+#: field_select.inc:66
+msgid "Options for the dropdown menu. For more fields, click 'More'."
+msgstr "Opties van het uitschuifmenu. Voor meer velden, klik op 'Meer'."
+
+#: field_textarea.inc:27
+#: field_textfield.inc:29
+msgid "Default value"
+msgstr "Standaard waarde"
+
+#: field_textarea.inc:28
+msgid "Lines"
+msgstr "Regels"
+
+#: field_textarea.inc:28
+msgid "How large the text area will be."
+msgstr "Hoe groot het tekstgebied zal zijn."
+
+#: field_timestamp.inc:54
+msgid "January"
+msgstr "Januari"
+
+#: field_timestamp.inc:54
+msgid "February"
+msgstr "Februari"
+
+#: field_timestamp.inc:54
+msgid "March"
+msgstr "Maart"
+
+#: field_timestamp.inc:54
+msgid "April"
+msgstr "April"
+
+#: field_timestamp.inc:54
+msgid "May"
+msgstr "Mei"
+
+#: field_timestamp.inc:54
+msgid "June"
+msgstr "Juni"
+
+#: field_timestamp.inc:54
+msgid "July"
+msgstr "Juli"
+
+#: field_timestamp.inc:54
+msgid "August"
+msgstr "Augustus"
+
+#: field_timestamp.inc:54
+msgid "September"
+msgstr "September"
+
+#: field_timestamp.inc:54
+msgid "October"
+msgstr "Oktober"
+
+#: field_timestamp.inc:54
+msgid "November"
+msgstr "November"
+
+#: field_timestamp.inc:54
+msgid "December"
+msgstr "December"
+
+#: field_timestamp.inc:58
+msgid "am"
+msgstr "am"
+
+#: field_timestamp.inc:58
+msgid "pm"
+msgstr "pm"
+
